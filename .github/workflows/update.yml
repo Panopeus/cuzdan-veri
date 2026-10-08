@@ -1,9 +1,5 @@
 name: Piyasa verisi
 on:
-  schedule:
-    - cron: "30 6,8,10 * * 1-5"   # 09:30, 11:30, 13:30 TR
-    - cron: "45 12 * * 1-5"       # 15:45 TR, TCMB bülteninden sonra
-    - cron: "30 14 * * 1-5"       # 17:30 TR
   workflow_dispatch:
 permissions:
   contents: write
