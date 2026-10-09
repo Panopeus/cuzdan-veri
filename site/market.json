@@ -1,14 +1,14 @@
 {
  "v": 1,
- "updated": "2026-10-09T07:08:03.962Z",
+ "updated": "2026-10-09T07:19:40.381Z",
  "tcmbDate": "2026-10-08",
  "goldDate": "2026-10-09",
- "goldAt": "2026-10-09T07:07:34.059Z",
+ "goldAt": "2026-10-09T07:19:16.858Z",
  "rates": {
   "USD": 49.2152,
   "EUR": 55.0538,
   "GBP": 65.0588,
-  "GAU": 6642.77
+  "GAU": 6636.07
  },
  "hist": {
   "USD": [
@@ -556,7 +556,7 @@
    },
    {
     "d": "2026-10-09",
-    "p": 6642.77
+    "p": 6636.07
    }
   ]
  },
@@ -1714,8 +1714,10 @@
   "USD": 41.7171,
   "EUR": 48.4575,
   "GBP": 55.8628,
-  "GAU": 5400,
-  "goldDate": "2025-10-09"
+  "GAU": 5420,
+  "goldDate": "2025-10-09",
+  "TRYDEP": 1.5868,
+  "depAvg": 47.03
  },
  "source": "Döviz: TCMB gösterge niteliğindeki döviz satış kuru. Gram altın: MetalCharts ons spot fiyatı ÷ 31,1035 × TCMB dolar satış kuru (yaklaşık); eski günler TCMB EVDS, Borsa İstanbul altın kapanışı. Enflasyon: TÜİK Tüketici Fiyat Endeksi (2003=100), TCMB EVDS.",
  "credit": {
