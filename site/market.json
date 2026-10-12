@@ -1,14 +1,14 @@
 {
  "v": 1,
- "updated": "2026-10-09T14:30:45.724Z",
+ "updated": "2026-10-12T06:30:52.789Z",
  "tcmbDate": "2026-10-09",
- "goldDate": "2026-10-09",
- "goldAt": "2026-10-09T14:30:14.064Z",
+ "goldDate": "2026-10-12",
+ "goldAt": "2026-10-12T06:30:21.870Z",
  "rates": {
   "USD": 49.216,
   "EUR": 55.2105,
   "GBP": 65.243,
-  "GAU": 6620.36
+  "GAU": 6619.8
  },
  "hist": {
   "USD": [
@@ -569,6 +569,10 @@
    {
     "d": "2026-10-09",
     "p": 6620.36
+   },
+   {
+    "d": "2026-10-12",
+    "p": 6619.8
    }
   ]
  },
@@ -576,7 +580,7 @@
  "cpi": {
   "series": "TP.GENENDEKS.T1",
   "base": "2003=100",
-  "checked": "2026-10-09",
+  "checked": "2026-10-12",
   "m": [
    [
     "2003-01",
@@ -1721,15 +1725,15 @@
   ]
  },
  "yearAgo": {
-  "asOf": "2026-10-09",
-  "d": "2025-10-09",
-  "USD": 41.7171,
-  "EUR": 48.4575,
-  "GBP": 55.8628,
-  "GAU": 5420,
-  "goldDate": "2025-10-09",
-  "TRYDEP": 1.5868,
-  "depAvg": 47.03
+  "asOf": "2026-10-12",
+  "d": "2025-10-10",
+  "USD": 41.7138,
+  "EUR": 48.274,
+  "GBP": 55.527,
+  "GAU": 5530,
+  "goldDate": "2025-10-10",
+  "TRYDEP": 1.5748,
+  "depAvg": 46.97
  },
  "source": "Döviz: TCMB gösterge niteliğindeki döviz satış kuru. Gram altın: MetalCharts ons spot fiyatı ÷ 31,1035 × TCMB dolar satış kuru (yaklaşık); eski günler TCMB EVDS, Borsa İstanbul altın kapanışı. Enflasyon: TÜİK Tüketici Fiyat Endeksi (2003=100), TCMB EVDS.",
  "credit": {
