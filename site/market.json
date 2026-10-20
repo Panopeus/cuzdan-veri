@@ -1,15 +1,15 @@
 {
  "v": 1,
- "updated": "2026-10-19T14:30:51.169Z",
+ "updated": "2026-10-20T06:31:28.563Z",
  "tcmbDate": "2026-10-19",
- "goldDate": "2026-10-19",
- "goldAt": "2026-10-19T14:30:35.882Z",
+ "goldDate": "2026-10-20",
+ "goldAt": "2026-10-20T06:30:25.286Z",
  "rates": {
   "USD": 49.5523,
   "EUR": 55.5676,
   "GBP": 66.1489,
-  "GAU": 6608.36,
-  "XAG": 91.177
+  "GAU": 6578.89,
+  "XAG": 91.429
  },
  "hist": {
   "USD": [
@@ -654,6 +654,10 @@
    {
     "d": "2026-10-19",
     "p": 6608.36
+   },
+   {
+    "d": "2026-10-20",
+    "p": 6578.89
    }
   ],
   "XAG": [
@@ -680,6 +684,10 @@
    {
     "d": "2026-10-19",
     "p": 91.177
+   },
+   {
+    "d": "2026-10-20",
+    "p": 91.429
    }
   ]
  },
@@ -687,7 +695,7 @@
  "cpi": {
   "series": "TP.GENENDEKS.T1",
   "base": "2003=100",
-  "checked": "2026-10-19",
+  "checked": "2026-10-20",
   "m": [
    [
     "2003-01",
@@ -1965,7 +1973,7 @@
      336.94
     ]
    ],
-   "checked": "2026-10-19"
+   "checked": "2026-10-20"
   },
   "EUR": {
    "series": "Eurostat prc_hicp_minr EA TOTAL I15",
@@ -2152,7 +2160,7 @@
      134.31
     ]
    ],
-   "checked": "2026-10-19"
+   "checked": "2026-10-20"
   },
   "GBP": {
    "series": "ONS D7BT (CPI 2015=100)",
@@ -2351,24 +2359,24 @@
      143.6
     ]
    ],
-   "checked": "2026-10-19"
+   "checked": "2026-10-20"
   }
  },
  "yearAgo": {
-  "asOf": "2026-10-19",
-  "d": "2025-10-17",
-  "USD": 41.8608,
-  "EUR": 48.9739,
-  "GBP": 56.3396,
+  "asOf": "2026-10-20",
+  "d": "2025-10-20",
+  "USD": 41.9522,
+  "EUR": 48.9135,
+  "GBP": 56.3895,
   "GAU": 5825,
-  "goldDate": "2025-10-17",
+  "goldDate": "2025-10-20",
   "TRYDEP": 1.5719,
   "depAvg": 46.85,
   "USDDEP": 1.0382,
   "usdAvg": 3.77,
   "EURDEP": 1.0189,
   "eurAvg": 1.87,
-  "GBPDEP": 1.0379,
+  "GBPDEP": 1.038,
   "gbpAvg": 3.77
  },
  "source": "Döviz: TCMB gösterge niteliğindeki döviz satış kuru. Gram altın: MetalCharts ons spot fiyatı ÷ 31,1035 × TCMB dolar satış kuru (yaklaşık); eski günler TCMB EVDS, Borsa İstanbul altın kapanışı. Enflasyon: TÜİK Tüketici Fiyat Endeksi (2003=100), TCMB EVDS. Dolar: ABD BLS CPI-U, ABD Hazinesi 4 haftalık bono getirisi. Euro: Eurostat HICP (Euro Bölgesi), ECB hanehalkı mevduat faizi (1 yıla kadar vadeli, yeni işlem). Sterlin: ONS TÜFE (Open Government Licence v3.0), İngiltere Merkez Bankası SONIA. Gümüş: MetalCharts ons spot fiyatı ÷ 31,1035 × TCMB dolar satış kuru.",
