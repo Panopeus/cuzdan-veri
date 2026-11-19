@@ -1,15 +1,15 @@
 {
  "v": 1,
- "updated": "2026-11-18T14:30:51.940Z",
+ "updated": "2026-11-19T06:31:39.503Z",
  "tcmbDate": "2026-11-18",
- "goldDate": "2026-11-18",
- "goldAt": "2026-11-18T14:30:12.306Z",
+ "goldDate": "2026-11-19",
+ "goldAt": "2026-11-19T06:30:24.858Z",
  "rates": {
   "USD": 50.4444,
   "EUR": 55.3446,
   "GBP": 66.5506,
-  "GAU": 6129.81,
-  "XAG": 74.117
+  "GAU": 6057.69,
+  "XAG": 73.606
  },
  "hist": {
   "USD": [
@@ -500,10 +500,6 @@
   ],
   "GAU": [
    {
-    "d": "2026-09-22",
-    "p": 6780
-   },
-   {
     "d": "2026-09-23",
     "p": 6748
    },
@@ -658,6 +654,10 @@
    {
     "d": "2026-11-18",
     "p": 6129.81
+   },
+   {
+    "d": "2026-11-19",
+    "p": 6057.69
    }
   ],
   "XAG": [
@@ -772,6 +772,10 @@
    {
     "d": "2026-11-18",
     "p": 74.117
+   },
+   {
+    "d": "2026-11-19",
+    "p": 73.606
    }
   ]
  },
@@ -782,7 +786,7 @@
  "cpi": {
   "series": "TP.GENENDEKS.T1",
   "base": "2003=100",
-  "checked": "2026-11-18",
+  "checked": "2026-11-19",
   "m": [
    [
     "2003-01",
@@ -2068,7 +2072,7 @@
      337.511
     ]
    ],
-   "checked": "2026-11-18"
+   "checked": "2026-11-19"
   },
   "EUR": {
    "series": "Eurostat prc_hicp_minr EA TOTAL I15",
@@ -2253,18 +2257,18 @@
     [
      "2026-09",
      134.31
+    ],
+    [
+     "2026-10",
+     134.93
     ]
    ],
-   "checked": "2026-11-18"
+   "checked": "2026-11-19"
   },
   "GBP": {
    "series": "ONS D7BT (CPI 2015=100)",
    "base": "2015=100",
    "m": [
-    [
-     "2022-10",
-     126.2
-    ],
     [
      "2022-11",
      126.7
@@ -2452,26 +2456,30 @@
     [
      "2026-09",
      144.1
+    ],
+    [
+     "2026-10",
+     144.9
     ]
    ],
-   "checked": "2026-11-18"
+   "checked": "2026-11-19"
   }
  },
  "yearAgo": {
-  "asOf": "2026-11-18",
-  "d": "2025-11-18",
-  "USD": 42.3402,
-  "EUR": 49.0678,
-  "GBP": 55.7695,
-  "GAU": 5816.1,
-  "goldDate": "2025-11-18",
+  "asOf": "2026-11-19",
+  "d": "2025-11-19",
+  "USD": 42.3518,
+  "EUR": 49.0377,
+  "GBP": 55.702,
+  "GAU": 5825,
+  "goldDate": "2025-11-19",
   "TRYDEP": 1.5647,
   "depAvg": 46.4,
-  "USDDEP": 1.038,
-  "usdAvg": 3.76,
+  "USDDEP": 1.0379,
+  "usdAvg": 3.74,
   "EURDEP": 1.0194,
   "eurAvg": 1.92,
-  "GBPDEP": 1.0378,
+  "GBPDEP": 1.0381,
   "gbpAvg": 3.76
  },
  "source": "Döviz: TCMB gösterge niteliğindeki döviz satış kuru. Gram altın: MetalCharts ons spot fiyatı ÷ 31,1035 × TCMB dolar satış kuru (yaklaşık); eski günler TCMB EVDS, Borsa İstanbul altın kapanışı. Enflasyon: TÜİK Tüketici Fiyat Endeksi (2003=100), TCMB EVDS. Dolar: ABD BLS CPI-U, ABD Hazinesi 4 haftalık bono getirisi. Euro: Eurostat HICP (Euro Bölgesi), ECB hanehalkı mevduat faizi (1 yıla kadar vadeli, yeni işlem). Sterlin: ONS TÜFE (Open Government Licence v3.0), İngiltere Merkez Bankası SONIA. Gümüş: MetalCharts ons spot fiyatı ÷ 31,1035 × TCMB dolar satış kuru.",
